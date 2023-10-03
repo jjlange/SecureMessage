@@ -7,12 +7,6 @@ anyone regardless of language. The app is designed to be user-friendly
 with an intuitive interface, providing a secure and convenient way for 
 users to communicate with one another.
 
-## Navigation
-- [View SecureMessage on Apple App Store](placeholder)
-- [Screenshots](placeholder)
-- [Dissertation and User Documentation](placeholder)
-- [GitHub Repository (this)](https://github.com/jjlange/SecureMessage)
-
 ## Deployment
 ### Tech Stack:
  -  [Swift Programming Language](https://swift.org)
